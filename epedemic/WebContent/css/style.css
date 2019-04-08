@@ -1,0 +1,44 @@
+body{
+	
+	background-image:url("hos1.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+.head{
+	margin-left:10px;
+	
+}
+.navbar{
+	
+	background-color:lightskyblue;
+	opacity:.8;
+}
+.navbar ul li {
+	font-size:20px;
+	margin:10px 20px;
+	float:left;
+	list-style:none;
+	color:white;
+}
+.navbar ul li a{
+	color:dark-blue;
+	style:none;
+}
+.navbar ul li a:hover{
+	color:white;
+}
+.main{
+ font-size:20px;
+ margin:20px;
+ 
+}
+
+.footer{
+	font-size:20px;
+	color:grey;
+	text-align:right;
+	padding:20px;
+	
+}
+
